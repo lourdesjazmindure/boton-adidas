@@ -1,0 +1,19 @@
+.boton {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 15px;
+    font-weight: bold;
+    text-decoration: none;
+    display:flex;
+    justify-content: space-around;
+    width: 200px;
+    align-items:center;
+}
+
+.boton:hover {
+    background-color: gray;
+    color: black;
+
+}
+
